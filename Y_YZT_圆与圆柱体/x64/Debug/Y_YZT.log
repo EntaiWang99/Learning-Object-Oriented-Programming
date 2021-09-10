@@ -1,0 +1,7 @@
+﻿  CCircle.cpp
+H:\2020-2021-1\面向对象程序设计与C++\课程设计程序\1\Y_YZT\CCircle.cpp(33,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CCylinder.cpp
+H:\2020-2021-1\面向对象程序设计与C++\课程设计程序\1\Y_YZT\CCylinder.cpp(39,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Y_YZT.vcxproj -> H:\2020-2021-1\面向对象程序设计与C++\课程设计程序\1\FS_A\x64\Debug\Y_YZT.exe
